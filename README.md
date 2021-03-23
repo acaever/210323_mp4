@@ -15,3 +15,5 @@
    1.7 : 1 : 1 로 변경해줌 
 5. https://ar-js-org.github.io/studio/ 에서 위 내용을 쉽게 만들어줌
    단) 기본 scale이 1 1 1으로 되어있음
+
+![](F93_anigif.gif)
